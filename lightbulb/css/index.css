@@ -1,0 +1,16 @@
+body {
+	
+	background-color: white;
+}
+.icon {
+	font-size: 400px !important;
+	
+}
+i{
+	margin-top: 250px;
+	margin-left: 750px;
+}
+.highlight {
+	background-color: black;
+	color: white; 
+}
